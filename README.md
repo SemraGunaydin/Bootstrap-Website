@@ -26,5 +26,5 @@ This project is for educational purposes only and serves as a beginner-friendly 
 
 # Contact 📫
 
-- gunaydinsemra34@gmail.com
+ semra.gunaydinwork@outlook.com
 
